@@ -5,6 +5,39 @@ description: "Sparkplug is a full service web+mobile development and technology 
 baseurl: ""
 url: "http://sparkpl.ug"
 
+blog:
+  ## blog information
+  title: "Sparkplug Insights"
+  subtitle: "Blog posts by the Team"
+  cover_image: blog-cover.png
+  logo: sparkpluglogo.png
+
+  ## company information
+  company: Sparkplug
+  url: http://sparkpl.ug
+  facebook: sparkplugea
+  twitter: sparkplugea
+  about_link: http://sparkpl.ug/#about
+
+  ## product information
+  product_link: http://sparkpl.ug/#product
+  tagline: "Building products that matter"
+
+  ## comments
+  disqus:
+    shortname: sparkplugea
+
+  ## sharing
+  sharing:
+    twitter: true
+    facebook: true
+    gplus: true
+    hn: true
+
+  ## analytics
+  analytics:
+    google: false
+
 # Build settings
 markdown: kramdown
 permalink: pretty
