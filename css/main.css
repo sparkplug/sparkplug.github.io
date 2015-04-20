@@ -8228,7 +8228,7 @@ p a,
   transition: background 150ms ease-out;
 }
 p a:hover {
-  background: #C2F3E1;
+  background: #FFD393;
 }
 ul {
   padding-left: 18px;
@@ -8250,11 +8250,11 @@ form {
   background: none;
 }
 ::-moz-selection {
-  background: #c2f3e1;
+  background: #FFD393;
   text-shadow: none;
 }
 ::selection {
-  background: #c2f3e1;
+  background: #FFD393;
   text-shadow: none;
 }
 /*
@@ -8535,7 +8535,7 @@ Styles shared throughout the site
   opacity: 1;
 }
 #main .row.section_header + .section_header_copy .container a.title-link:hover {
-  color: #c2f3e1;
+  color: #FFD393;
 }
 .section_nav .post-nav,
 .section_nav .case-study-nav {
@@ -8602,7 +8602,7 @@ Styles shared throughout the site
 }
 .section_nav .post-nav a:hover,
 .section_nav .case-study-nav a:hover {
-  background: #C2F3E1;
+  background: #FFD393;
 }
 .section_nav .post-nav a,
 .section_nav .case-study-nav a {
@@ -8970,7 +8970,7 @@ footer .dark p {
   color: white;
 }
 footer .dark a:hover {
-  background-color: #C2F3E1;
+  background-color: #FFD393;
   color: #333;
 }
 footer #footer_inner {
@@ -10256,7 +10256,7 @@ body.single-case_study .case-study-nav a {
 }
 body.single-case_study .post-nav a:hover,
 body.single-case_study .case-study-nav a:hover {
-  background: #C2F3E1;
+  background: #FFD393;
 }
 body.single-case_study .post-nav a,
 body.single-case_study .case-study-nav a {
@@ -10750,7 +10750,7 @@ body.author ul.tags li a,
 #posts-search ul.tags li a {
   font-size: 0.875em;
   color: #333;
-  background: #C2F3E1;
+  background: #FFD393;
   padding: 2px 4px 1px;
   border-bottom: 1px solid  #fb865d;
   -webkit-transition: background 150ms ease-out;
@@ -10917,7 +10917,7 @@ body.single-post .case-study-nav a:hover,
 body.tag .case-study-nav a:hover,
 body.author .case-study-nav a:hover,
 #posts-search .case-study-nav a:hover {
-  background: #C2F3E1;
+  background: #FFD393;
 }
 body.blog .post-nav a,
 body.single-post .post-nav a,
