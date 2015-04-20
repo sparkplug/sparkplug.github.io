@@ -1,0 +1,10 @@
+# Site settings
+title: Sparkplug | Web Application Development | Technology Consulting
+email: hello@sparkpl.ug
+description: "Sparkplug is a full service web+mobile development and technology consulting firm. We have the technical expertise, the agile practices and a strong design and engineering team. Contact us to get started on your project today."
+baseurl: ""
+url: "http://sparkpl.ug"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
