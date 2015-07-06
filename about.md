@@ -9,7 +9,7 @@ permalink: /about/
 <section id="content" class="content">
     <div class="container" style="padding-bottom: 40px">
         <div class="row">
-            <div class="col-xs-7">
+            <div class="col-md-8">
 
                 <p>We are a small team with interest in front and back-end development, interface design, machine learning, artificial intelligence and big data. Sparkplug was founded in 2013 by Ray Besiga and Moses Mugisha.</p>
 
@@ -20,7 +20,7 @@ permalink: /about/
                 <h3 style="margin: 40px 0">We love open source.</h3>
 
             </div>
-            <div class="col-xs-4 col-xs-offset-1">
+            <div class="col-md-4">
                 <h4>The Company</h4>
 
                 <ul class="team list-unstyled" style="border-bottom: 1px solid #ddd">
@@ -57,6 +57,7 @@ permalink: /about/
         <h3 style="margin: 20px 0">Interested in helping us build great software?</h3>
 
         <a href="/jobs/">Learn more about working at Sparkplug</a>
+
     </div>
 
                 </section>
