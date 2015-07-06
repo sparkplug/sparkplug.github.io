@@ -50,14 +50,13 @@ permalink: /about/
                         <p>Advisor</p>
                     </li>
                 </ul>
-                <ul class="list-unstyled">
-                    <li style="text-align:center">
-                        <p>Interested in helping us build great software?</p>
-                        <a href="/jobs/">Learn more about working at Sparkplug</a>
-                    </li>
-                </ul>
+                
             </div>
         </div>
+        <hr style="margin-bottom: 40px">
+        <h3 style="margin: 20px 0">Interested in helping us build great software?</h3>
+
+        <a href="/jobs/">Learn more about working at Sparkplug</a>
     </div>
 
                 </section>
