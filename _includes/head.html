@@ -17,11 +17,25 @@
 <meta property="og:image" content="http://sparkpl.ug/images/sparkpluglogo.png" />
 
 
-<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+<!-- <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}"> -->
+<link rel="stylesheet" href="/css/sparkplug.css">
 <link href='{{ "/feed.xml" | prepend: site.baseurl }}' rel="alternate" title="RSS" type="application/rss+xml">
 <link href="/images/sparkplugfavicon.ico" rel="shortcut icon"  />
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <!-- need to add modernizr here -->
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Sparkplug",
+  "url" : "http://www.sparkpl.ug",
+  "logo": "http://sparkpl.ug/images/sparkpluglogo.png"
+  "sameAs" : [ "http://www.facebook.com/sparkplugea",
+    "http://www.twitter.com/sparkplugea",
+    "http://plus.google.com/+SparkplUg52013/",
+    "http://www.linkedin.com/company/3104389"]
+}
+</script>
 
 <script src="//use.typekit.net/wwv5mqo.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
