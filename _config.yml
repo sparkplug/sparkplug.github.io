@@ -39,5 +39,5 @@ blog:
     google: false
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 permalink: pretty
