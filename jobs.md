@@ -54,7 +54,7 @@ permalink: /jobs/
                     <li>The future of software is distributed.</li>
                     <li>Developers matter.</li>
                     <li>It is only beautiful if it works</li>
-                  
+
                 </ul>
             </div>
         </div>
@@ -64,6 +64,4 @@ permalink: /jobs/
 
         <p>Take a look at our short history, and <a href="/about/">learn more about the team</a>.</p>
     </div>
-</div>
-
-                </section>
+</section>
