@@ -8,7 +8,7 @@ author: Ray Besiga
 
 ---
 
-![With Tani and Bill](/public/images/gala_tani_bill.jpg "Bill and Tani Austin, Founders of Starkey Hearing Foundation")
+![With Tani and Bill](/images/gala_tani_bill.jpg "Bill and Tani Austin, Founders of Starkey Hearing Foundation")
 
 About 4 weeks ago, our beloved client, [Starkey Hearing Foundation](http://starkeyhearingfoundation.org/), invited the directors of [Sparkplug](http://sparkpl.ug) to their Annual Gala. The gala is a weekend long event during which they celebrate their partnerships, ambitions, and achievements but most of all, show appreciation for the past year. It was an amazing evening of moving speeches and riveting performances, and overwhelming support for the gift of hearing by raising more than $8.7 million to reconnect families and communities around the world.
 
@@ -18,30 +18,26 @@ I first met Bill and Tani Austin, the co-founders, while volunteering at one of 
 
 I wish to share photos of some of my favorite moments from the gala, as well as talk a little bit about some of the interesting people I met there.
 
-![Starkey Gala Honorees](/public/images/gala_honorees.jpg "Starkey Gala Honorees")
+![Starkey Gala Honorees](/images/gala_honorees.jpg "Starkey Gala Honorees")
 I got to be in the same auditorium and share and evening with these amazing people. Care to guess the names of some of the people in this photo?
 
-![Founders' Circle Luncheon](/public/images/founders_circle_luncheon.jpg "Founders' Circle Luncheon")
+![Founders' Circle Luncheon](/images/founders_circle_luncheon.jpg "Founders' Circle Luncheon")
 Founders' Circle Luncheon was really informative, and fulfilling as we got to see the product of our work on display, and meet Starkey partners from the different countries around the world.  And I got to chat with the former president of Malawi, H.E. Dr. Joyce Banda!
 
-![Sister Rosemary Nyirumbe](/public/images/sister_rosemary.jpg "Sister Rosemary Nyirumbe of Sewing Hope") Meeting Sister Rosemary Nyirumbe, a TIME 100 honoree, was one of the highlights for me as she represents the power of empathy and hope in any community. With her organization, [Sewing Hope](http://sewinghope.com/), she presides over Saint Monica's Vocational School in Gulu, Uganda and invites formerly abducted and ostracized girls, who return with LRA rebels' children, and imparts vocational skills such as tailoring so that they may gain independence. Working together with the [Forest Whitaker Foundation](http://wpdi.org/) and [Pros for Africa](http://www.prosforafrica.com/), she has been able to have great impact on this section of her community. Keep up the great work Sister Nyirumbe.
+![Sister Rosemary Nyirumbe](/images/sister_rosemary.jpg "Sister Rosemary Nyirumbe of Sewing Hope") 
 
-![Rami and Mazen](/public/images/rami_and_mazen.jpg "Rami and Mazen of Parents Circle - Families Forum")
+Meeting Sister Rosemary Nyirumbe, a TIME 100 honoree, was one of the highlights for me as she represents the power of empathy and hope in any community. With her organization, [Sewing Hope](http://sewinghope.com/), she presides over Saint Monica's Vocational School in Gulu, Uganda and invites formerly abducted and ostracized girls, who return with LRA rebels' children, and imparts vocational skills such as tailoring so that they may gain independence. Working together with the [Forest Whitaker Foundation](http://wpdi.org/) and [Pros for Africa](http://www.prosforafrica.com/), she has been able to have great impact on this section of her community. Keep up the great work Sister Nyirumbe.
+
+![Rami and Mazen](/images/rami_and_mazen.jpg "Rami and Mazen of Parents Circle - Families Forum")
 The work that Abraham Rami Elhanan and Mazen Faraj are doing with [Parents Circle - Families Forum](https://www.facebook.com/ParentsCircleFamiliesForum) to bring about peace in the Gaza strip cannot go ignored. Glad they got awarded for their efforts. I hope and pray for peace in Gaza.
 
-![Dikembe Mutombo](/public/images/dikembe_mutombo.jpg "Dikembe Mutombo of Dikembe Mutombo Foundation")
-Dikembe Mutombo is way taller than you! And he does a lot of great work with his [foundation](http://www.dmf.org/)!
+![Dikembe Mutombo](/images/dikembe_mutombo.jpg "Dikembe Mutombo of Dikembe Mutombo Foundation")
 
-![Miss Minnesota](/public/images/miss_minnesota.jpg "Miss Minnesota")
-Miss Minnesota is a pre-med student. Her future is bright. She's gonna save lives.
+And of course, we cannot not be excited about meeting Dikembe Mutombo! He does a lot of great work with his [foundation](http://www.dmf.org/)!
 
-![Amazing Glitter Elephant](/public/images/gala_elephant.jpg "This amazing elephant")
-This amazing glitter elephant. I'm an elephant clan boy so the obsession is warranted!
+The main reason I wrote this post was to show appreciation for our client, the [Starkey Hearing Foundation](http://starkeyhearingfoundation.org/), and highlight the importance of partnership. Choosing the right partners goes a long way in achieving impact for any cause you set out to achieve. They have a lot of great partners. Are you choosing the right partners? 
 
-![Ride or Die Dude](/public/images/gala_bike.jpg "Super cool biker dude")
-And this!
 
-Anyhow, the main reason I wrote this post was to show appreciation for our client, the [Starkey Hearing Foundation](http://starkeyhearingfoundation.org/), and highlight the importance of partnership. Choosing the right partners goes a long way in achieving impact for any cause you set out to achieve. Are you choosing the right partners?
 
 
 

@@ -24,7 +24,7 @@
           <div class="container">
               <h3>{{page.title}}</h3>
               <!--<p>News, views, tutorials and more from Sparkplug</p>-->
-              <a href="https://twitter.com/intent/tweet?url={{ page.url }}&text={{ page.title}}&via=sparkplugea" class="btn btn-primary">Share on Twitter</a>
+              <a href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl }}&text={{ page.title}}&via=sparkplugea" class="btn btn-primary">Share on Twitter</a>
           </div>
         </div>
       </div>
