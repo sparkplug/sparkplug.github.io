@@ -75,7 +75,7 @@ Introducing the blogger, photographer and SME bundles:
     </div> 
 
 
-We invite you to be a part of the celebration. These birthday bundles will run from July 21 to August 21, 2015 so don't miss out. And don't let your friends miss out either, share widely.
+We invite you to be a part of the celebration. These birthday bundles will run from July 21, 2015 to August 21, 2015 so don't miss out. And don't let your friends miss out either, share widely.
 
 
 
