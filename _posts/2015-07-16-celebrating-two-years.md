@@ -7,14 +7,15 @@ author: "Ray Besiga"
 excerpt: Sparkplug is celebrating two years since we set up! We wish to give back to our beloved community. Bloggers, photographers and SMEs, we have a discounted bundle for you!!" 
 ---
 
-It is Sparkplug's 2nd birthday and we are ready to celebrate! With this year, and others to come, we intend to celebrate with our community by making amazing offers for our local community of digital natives and wanderers. This year, we have chosen to give back to our large community of writers, bloggers and small businesses.
+It is Sparkplug's 2nd birthday and we are ready to celebrate! We intend to do this with our local community of digital natives and wanderers. The wonderful  group of writers, bloggers, photographers and small businesses. You furnish us with useful and anecdotal information. Now it's time for us to help you be your best.
 
-There is plenty of interesting, and quite honestly, hilarious bloggers, photographers and Twitterati with a lot to do, say and share with us. However, we have noticed that the one lacking thing is a solid online presence and portfolio. 
+Many bloggers, photographers and Twitterati have a lot to say and share with us. We have noticed, however, that many lack a solid online presence and portfolio. 
+
 Lots of original local content littered all over Blogger, Google Plus, Wordpress.com among others. Too much clutter, poor SEO, and not the best looking websites. We seek to change this.  
 
-Alongside the bloggers and photographers, we also wish to give back to the micro, small and medium enterprises and non-profit organizations that form a large part of our community. We wish to support your efforts by building beautiful, clean websites that reflect the essence of your works and programs while allowing organizational culture and ethos to shine through.
+We also wish to give back to the micro, small and medium enterprises and non-profit organizations. We hope to do this by building beautiful, clean websites that reflect the essence of your work and programs while allowing organizational character, culture and ethos to shine through.
 
-Introducing the blogger, photographer and SME bundles. 
+Introducing the blogger, photographer and SME bundles: 
 
 <div class="pricing">
         <div class="row plans">
