@@ -1,17 +1,27 @@
 ---
 layout: blog-detail
 ---
-
+{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
+{% endif %}
 <div id="content">
   <div class="container">
     <div class="row">
-      <div class="col-md-9 col-md-offset-2">
+      <div class="col-md-9 col-md-offset-1">
         
         <div class="post detail">
           
           <div class="entry-meta entry-header">
-            <span class="author">{{ post.author }}</span> .
-            <span class="published">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <span class="author">{{ page.author }}</span> .
+            <span class="published">{{ page.date | date: "%b %-d, %Y" }}</span> .
+            <span>
+              {% if page.minutes %}
+                {{ page.minutes }} minute read
+              {% else %}
+                {{ minutes }} minute read
+              {% endif %}
+            </span>
           </div>
           <div class="entry-content">
             

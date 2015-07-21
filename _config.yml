@@ -1,43 +1,12 @@
 # Site settings
 title: Sparkplug | Web Application Development | Technology Consulting
 email: hello@sparkpl.ug
-description: "At Sparkplug, we use open source technology to develop web and mobile applications, integrate with client teams, design interfaces and experiences, and consult on projects large & small."
+description: "Sparkplug uses open source technology to develop web and mobile applications, integrate with client teams, design interfaces and experiences, and consult on projects large & small."
 baseurl: ""
 url: "http://sparkpl.ug"
-
-blog:
-  ## blog information
-  title: "Sparkplug Insights"
-  subtitle: "Blog posts by the Team"
-  cover_image: blog-cover.png
-  logo: sparkpluglogo.png
-
-  ## company information
-  company: Sparkplug
-  url: http://sparkpl.ug
-  facebook: sparkplugea
-  twitter: sparkplugea
-  about_link: http://sparkpl.ug/#about
-
-  ## product information
-  product_link: http://sparkpl.ug/#product
-  tagline: "Building products that matter"
-
-  ## comments
-  disqus:
-    shortname: sparkplugea
-
-  ## sharing
-  sharing:
-    twitter: true
-    facebook: true
-    gplus: true
-    hn: true
-
-  ## analytics
-  analytics:
-    google: false
 
 # Build settings
 # markdown: kramdown
 permalink: pretty
+
+paginate: 4

@@ -24,7 +24,14 @@
           <div class="container">
               <h3>{{page.title}}</h3>
               <!--<p>News, views, tutorials and more from Sparkplug</p>-->
-              <a href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl }}&text={{ page.title}}&via=sparkplugea" class="btn btn-primary">Share on Twitter</a>
+              <div class="row">
+                <div class="col-md-9 col-md-offset-2">
+                  <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=sparkplugea" class="btn btn-primary">Share on Twitter</a>
+                  <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" class="btn btn-default">Share on Facebook</a>
+                  <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" class="btn btn-danger">Share on Google+</a>
+                  <a href="http://www.linkedin.com/shareArticle?url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" class="btn btn-primary" target="_blank">Share on LinkedIn</a>
+                </div>
+              </div>
           </div>
         </div>
       </div>

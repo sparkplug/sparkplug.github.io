@@ -6,7 +6,7 @@ permalink: /blog/
 <div id="content">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-10 col-md-offset-1">
         {% for post in site.posts %}
         <div class="post type-post format-standard status-publish hentry">
           <h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
