@@ -5,6 +5,7 @@ date:   2015-07-16 18:11:32
 categories: events
 author: "Ray Besiga"
 excerpt: Sparkplug is celebrating two years since we set up! We wish to give back to our beloved community. Bloggers, photographers and SMEs, we have a discounted bundle for you!!
+keywords: Sparkplug, Sparkplug Uganda, Sparkplug Celebration
 ---
 
 It is Sparkplug's 2nd birthday and we are ready to celebrate! We intend to do this with our local community of digital natives and wanderers. The wonderful  group of writers, bloggers, photographers and small businesses. You furnish us with useful and anecdotal information. Now it's time for us to help you be your best.

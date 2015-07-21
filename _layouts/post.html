@@ -56,11 +56,11 @@ layout: blog-detail
 {
     "@context": "http://schema.org",
     "@type": "Article",
-    "publisher": "Compose Articles",
-    "headline": "{{ post.title }}",
-    "url": "{{ post.url }}",
-    "datePublished": "{{ post.date }}",
-    "keywords": "{{ post.keywords }}",
-    "description": "{{ post.excerpt }}"
+    "publisher": "Sparkplug",
+    "headline": "{{ page.title }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "datePublished": "{{ page.date }}",
+    "keywords": "{{ page.keywords }}",
+    "description": "{{ page.excerpt }}"
 }
     </script>
