@@ -14,7 +14,7 @@ excerpt: Our CEO, Ray Besiga, talks about Technology and the Sharing Economy at 
 
 On January 9, 2015, I was honored to speak in the changemakers session at TEDx Kampala, under a theme titled "Owning Our Destiny". As broad and cheesy a theme as they come, but it had me pondering the question of what I could possibly talk about as a [technologist](http://sparkpl.ug/) and change enthusiast. Something to elicit interest, fill with curiosity, suggest opportunity, and possibly trigger action long after the talk was done. Ultimately, it came down to social networks, technology, and new-age economics. All the things a twee almost-millennial could care about. And thus the title, "Technology and the sharing economy".
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/hUmFRwvnosc" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/hUmFRwvnosc" frameborder="0" > </iframe>
 
 I do not have all the information regarding how the sharing economy started but I believe that it had something to do with the global financial crisis, the rise of the millennials as a consumer demographic and an altruistic albeit late shift from the "this is mine" to "what is mine is yours, for a fee" economy. During the economic downturn, there was a need to minimize expenditure, optimize personal costs and create new income. The ubiquity of social networks allowed for people to trust strangers if only due to the shared hardship. Tools such as Craigslist and E-Bay were a boon to peer-to-peer transactions. Why buy a saxophone, or a tuxedo when you can rent one from a stranger online? Fantastic, right?
 
