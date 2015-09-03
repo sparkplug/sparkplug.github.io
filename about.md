@@ -19,6 +19,8 @@ sitemap:
 
                 <p>At Sparkplug, we love working with clients to devise solutions to their greatest challenges. Looking to build an international patient and missions database for your multinational program? A commodity management platform to improve the supply chain of a national medical store? Build a business intelligence platform for a operations of a fast-growing organization? Look to us.</p>
 
+                <p>We work with clients to not only build great software but also validate ideas and steer them toward product-need fit. This enables our clients to deliver products and experiences that meet the desired expectations of their customers. Organizations from the USA, UK and Uganda have entrusted us to build their business-critical applications. We are based in Kampala, Uganda.</p>
+
                 <p>Sparkplug is technology agnostic. We’re interested in solving your problem, not the problem we solved for someone else the day before. We, however, support and use many popular languages and platforms, including Python, Ruby, Erlang, Haskell, PHP, Java, Node.js, and JavaScript.</p>
 
                 <h3 style="margin: 40px 0">We love open source.</h3>
