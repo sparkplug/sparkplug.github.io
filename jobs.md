@@ -2,6 +2,10 @@
 layout: default2
 title: Work At Sparkplug
 permalink: /jobs/
+sitemap:
+    priority: 0.7
+    changefreq: weekly
+    lastmod: 2015-09-03T14:07:25
 ---
 
 <section id="content" class="content">

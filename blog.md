@@ -1,7 +1,11 @@
 ---
 layout: blog
-title: Insights
+title: Insights at Sparkplug
 permalink: /blog/
+sitemap:
+    priority: 0.7
+    changefreq: weekly
+    lastmod: 2015-09-03T14:07:25
 ---
 <div id="content">
   <div class="container">
@@ -21,10 +25,10 @@ permalink: /blog/
               {{ post.excerpt }}
             {% endif %}
          </div>
-         <a class="read-more" href="{{ post.url }}">Continue reading.. </a> 
+         <a class="read-more" href="{{ post.url }}">Continue reading.. </a>
        </div>
        {% endfor %}
-     </div> 
+     </div>
    </div>
   </div>
 </div>

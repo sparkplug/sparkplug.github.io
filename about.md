@@ -2,6 +2,10 @@
 layout: default2
 title: About Sparkplug
 permalink: /about/
+sitemap:
+    priority: 0.7
+    changefreq: weekly
+    lastmod: 2015-09-03T14:07:25
 ---
 
 
@@ -50,7 +54,7 @@ permalink: /about/
                         <p>Advisor</p>
                     </li>
                 </ul>
-                
+
             </div>
         </div>
         <hr style="margin-bottom: 40px">
