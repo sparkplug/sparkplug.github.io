@@ -51,17 +51,14 @@ layout: blog-detail
   </div>
 </div>
 
+<div style="display:none;">
+<div vocab="http://schema.org/" typeof="NewsArticle">
+  <span property="headline">{{ page.title }}</span>
+  <span property="alternativeHeadline">{{ page.title }}</span>
+  <span property="description">{{ page.excerpt }}</span>
+  <span property="articleBody">{{ page.content }}</span>
+  <meta property="image" content="{{ site.url }}{{ page.image }}"/>
+  <meta property="datePublished" content="{{ page.date | date: "%b %-d, %Y" }}"/>
+</div>
+</div>
 
-    <script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "Article",
-    "publisher": "Sparkplug",
-    "headline": "{{ page.title }}",
-    "url": "{{ site.url }}{{ page.url }}",
-    "datePublished": "{{ page.date }}",
-    "keywords": "{{ page.keywords }}",
-    "description": "{{ page.excerpt }}"
-    "image": "http://sparkpl.ug/images/laptop-notebook-technology-computer.jpg"
-}
-    </script>

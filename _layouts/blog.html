@@ -4,35 +4,22 @@
   {% include head.html %}
 
   <body>
-  <div class="blog">
+  <div class="jobs">
       <div class="backdrop">
-        <header class="">
-          <div class="container">
-            <a class="logo" href="/"><img src="/images/sparkpluglogo.png" alt="Sparkplug"></a>
-        
-            <ul class="user-nav">
-              <li class="hidden-xs"><a href="/#services">Services</a></li>
-              <li class="hidden-xs"><a href="/#portfolio">Portfolio</a></li>
-              <li class="hidden-xs"><a href="/about/">Team</a></li>
-              <li class="hidden-xs"><a href="/blog/">Blog</a></li>
-              <li class="hidden-xs"><a href="/#contact">Contact</a></li>
-            </ul>
-          </div>
-        </header>
-          
+          {% include header.html %}
           <div class="hero">
-          <div class="container">
-              <h3>{{page.title}}</h3>
-              <p>News, views, tutorials and more from Sparkplug</p>
-              <a href="http://twitter.com/sparkplugea" class="btn btn-primary">Twitter</a>
-              <a href="/feed.xml" class="btn btn-default rss"> Subscribe</a>
-          </div>
+            <div class="container">
+                <h3>{{page.title}}</h3>
+                <p>News, views, tutorials and more from Sparkplug</p>
+              <a href="http://twitter.com/sparkplugea" class="btn btn-primary socbtn">Twitter</a>
+              <a href="/feed.xml" class="btn btn-default rss socbtn"> Subscribe</a>
+            </div>
         </div>
       </div>
-      
+
       {{ content }}
-      
-      
+
+
   </div>
   {% include footer.html %}
 

@@ -5,7 +5,7 @@ category: events
 comments: true
 excerpt: Our experience at the Starket Gala, held annually by one of our favorite clients, Starkey Hearing Foundation.
 author: Ray Besiga
-
+image: /images/gala_tani_bill.jpg
 ---
 
 ![With Tani and Bill](/images/gala_tani_bill.jpg "Bill and Tani Austin, Founders of Starkey Hearing Foundation")
@@ -24,7 +24,7 @@ I got to be in the same auditorium and share and evening with these amazing peop
 ![Founders' Circle Luncheon](/images/founders_circle_luncheon.jpg "Founders' Circle Luncheon")
 Founders' Circle Luncheon was really informative, and fulfilling as we got to see the product of our work on display, and meet Starkey partners from the different countries around the world.  And I got to chat with the former president of Malawi, H.E. Dr. Joyce Banda!
 
-![Sister Rosemary Nyirumbe](/images/sister_rosemary.jpg "Sister Rosemary Nyirumbe of Sewing Hope") 
+![Sister Rosemary Nyirumbe](/images/sister_rosemary.jpg "Sister Rosemary Nyirumbe of Sewing Hope")
 
 Meeting Sister Rosemary Nyirumbe, a TIME 100 honoree, was one of the highlights for me as she represents the power of empathy and hope in any community. With her organization, [Sewing Hope](http://sewinghope.com/), she presides over Saint Monica's Vocational School in Gulu, Uganda and invites formerly abducted and ostracized girls, who return with LRA rebels' children, and imparts vocational skills such as tailoring so that they may gain independence. Working together with the [Forest Whitaker Foundation](http://wpdi.org/) and [Pros for Africa](http://www.prosforafrica.com/), she has been able to have great impact on this section of her community. Keep up the great work Sister Nyirumbe.
 
@@ -35,7 +35,7 @@ The work that Abraham Rami Elhanan and Mazen Faraj are doing with [Parents Circl
 
 And of course, we cannot not be excited about meeting Dikembe Mutombo! He does a lot of great work with his [foundation](http://www.dmf.org/)!
 
-The main reason I wrote this post was to show appreciation for our client, the [Starkey Hearing Foundation](http://starkeyhearingfoundation.org/), and highlight the importance of partnership. Choosing the right partners goes a long way in achieving impact for any cause you set out to achieve. They have a lot of great partners. Are you choosing the right partners? 
+The main reason I wrote this post was to show appreciation for our client, the [Starkey Hearing Foundation](http://starkeyhearingfoundation.org/), and highlight the importance of partnership. Choosing the right partners goes a long way in achieving impact for any cause you set out to achieve. They have a lot of great partners. Are you choosing the right partners?
 
 
 
