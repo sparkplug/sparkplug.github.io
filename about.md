@@ -32,28 +32,18 @@ sitemap:
                 <ul class="team list-unstyled" style="border-bottom: 1px solid #ddd">
                     <li>
                         <a href="http://twitter.com/raybesiga"><img src="//github.com/raybesiga.png" class="avatar"></a>
-                        <h4><a href="http://twitter.com/raybesiga">Ray Besiga (@raybesiga)</a></h4>
-                        <p>Product</p>
+                        <h4><a href="http://twitter.com/raybesiga">Ray Besiga</a></h4>
+                        <p>Product Designer</p>
                     </li>
                     <li>
                         <a href="http://twitter.com/mossplix"><img src="//github.com/mossplix.png" class="avatar"></a>
-                        <h4><a href="http://twitter.com/mossplix">Moses Mugisha (@mossplix)</a></h4>
-                        <p>Engineer</p>
+                        <h4><a href="http://twitter.com/mossplix">Moses Mugisha</a></h4>
+                        <p>Software Engineer</p>
                     </li>
                     <li>
-                        <a href="http://twitter.com/asseym"><img src="//github.com/asseym.png" class="avatar"></a>
-                        <h4><a href="http://twitter.com/asseym">Alfred Mukasa (@asseym)</a></h4>
-                        <p>Engineer</p>
-                    </li>
-                    <li>
-                        <a href="http://twitter.com/katraxuk"><img src="//github.com/katrax.png" class="avatar"></a>
-                        <h4><a href="http://twitter.com/katraxuk">Andrew Katumba (@katraxuk)</a></h4>
-                        <p>Engineer</p>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/stevehelvie"><img src="https://pbs.twimg.com/profile_images/378800000590162885/525861c7e55e9cb100bdb3032a62786f_400x400.png" class="avatar"></a>
-                        <h4><a href="https://twitter.com/stevehelvie">Steve Helvie (@stevehelvie)</a></h4>
-                        <p>Advisor</p>
+                        <a href="http://twitter.com/emugabi"><img src="//github.com/emugabi.png" class="avatar"></a>
+                        <h4><a href="http://twitter.com/elvisbmugabi">Elvis Mugabi</a></h4>
+                        <p>Software Engineer</p>
                     </li>
                 </ul>
 
