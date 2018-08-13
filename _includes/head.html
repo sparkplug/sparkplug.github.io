@@ -1,0 +1,63 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="author" content="{{ site.title }}">
+  <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+
+  {% seo %}
+
+  <meta name="theme-color" content="#ffffff">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <!-- icon in the highest resolution we need it for -->
+  <link rel="icon" href="img/favicon-16px.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="favicon-32px.png" sizes="32x32" type="image/png">
+
+  <!-- reuse same icon for Safari -->
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+  <!-- Twitter Tags -->
+
+  <!-- Twitter cards -->
+	<meta name="twitter:site"    content="@{{ site.twitter_username }}">
+	<meta name="twitter:creator" content="@sparkplugea">
+	<meta name="twitter:title"   content="{{ page.title }}">
+
+	{% if page.description %}
+	<meta name="twitter:description" content="{{ page.description }}">
+	{% else %}
+	<meta name="twitter:description" content="{{ site.description }}">
+	{% endif %}
+
+	{% if page.image %}
+	<meta name="twitter:card"  content="summary_large_image">
+	<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+	{% else %}
+	<meta name="twitter:card"  content="summary">
+	<meta name="twitter:image" content="{{ site.title_image }}">
+	{% endif %}
+	<!-- end of Twitter cards -->
+
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+  <link rel="stylesheet" href="/css/sparkplug.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="/feed.xml" >
+  <link rel="shortcut icon" href="/favicon.ico">
+  <!-- <script src="/js/vendor/modernizr-2.8.3.min.js" defer></script>
+  <script type="text/javascript" src="/js/jquery-3.2.1.min.js" ></script>
+  <script src="/js/slick.min.js" defer></script> 
+
+  <link rel="manifest" href="manifest.json"> -->
+
+  {% if page.image %}
+      <meta property="og:image" content="{{ site.url }}/{{ page.image }}" />
+  {% endif %}
+
+  <meta property="og:description" content="{{ page.excerpt }}" />
+
+</head>
