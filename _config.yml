@@ -48,7 +48,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /img/sparkpluglogo.png
+      image: /img/sparkplug-tech-work.jpg
 
 analytics:
   provider               : google # false (default), "google", "google-universal", "custom"
