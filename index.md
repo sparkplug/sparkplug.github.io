@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Home
-description: Sparkplug provides reliable technology consulting and software development
-  services for innovative organizations.
+description: Optimal technology solutions and services for innovative organizations since 2013.
+image: /img/sparkplug-tech-work.jpg
 ---
 <div class="cover bg-left bg-white bg-center-l" id="cornerstone">
     <section class="mw8 center pb4 pb5-m pb6-l">
