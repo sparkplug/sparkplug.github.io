@@ -8759,11 +8759,42 @@ summary {
 }*/
 
 @font-face {
-    font-family:'Larsseit';src:url(../fonts/Larsseit-bold.ttf) format('truetype');font-weight:700;font-style:normal;font-display:auto;text-rendering:optimizeLegibility
+    font-family:'Circular Standard';
+    src:url(../fonts/CircularStd-Book.ttf) format('truetype');
+    font-weight:400;
+    font-style:normal;
+    font-display:auto;
+    text-rendering:optimizeLegibility
+}
+
+@font-face {
+    font-family:'Sofia Pro';
+    src:url(../fonts/SofiaProRegular.ttf) format('truetype');
+    font-weight:400;
+    font-style:normal;
+    font-display:auto;
+    text-rendering:optimizeLegibility
 }
 
 @font-face {
     font-family:'Larsseit';src:url(../fonts/Larsseit.ttf) format('truetype');font-weight:400;font-style:normal;font-display:auto;text-rendering:optimizeLegibility
+}
+
+@font-face {
+    font-family:'Eina';
+    src:url(../fonts/eina-01-semibold.ttf) format('truetype');
+    font-weight:500;
+    font-style:normal;
+    font-display:auto;
+    text-rendering:optimizeLegibility
+}
+@font-face {
+    font-family:'Eina';
+    src:url(../fonts/eina-01-bold.ttf) format('truetype');
+    font-weight:700;
+    font-style:normal;
+    font-display:auto;
+    text-rendering:optimizeLegibility
 }
 
 html {
@@ -8771,12 +8802,12 @@ html {
 }
 
 body {
-    font-family: "Larsseit","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 300
+    font-family: "Circular Standard","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Larsseit","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Eina","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700
 }
 
