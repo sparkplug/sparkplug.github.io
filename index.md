@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: Optimal technology solutions and services for innovative organizations since 2013.
+description: Building better products for our clients since 2013.
 image: /img/sparkplug-tech-work.jpg
 ---
 <div class="cover bg-left bg-white bg-center-l" id="cornerstone">
@@ -45,7 +45,7 @@ image: /img/sparkplug-tech-work.jpg
       <header class="db w-100 wow  fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
         <h1 class="mv2 f4 f3-m f2-l lh-title tracked-tight">Web & Mobile Design</h1>
       </header>
-      <p class="measure lh-copy wow  fadeIn animated" style="visibility: visible; animation-name: fadeIn;">We focus on design and technology as a broader approach to user experience, product performance and consumer perception. A website is a necessary tool for nearly every business and organization. Our interactive design approach focuses on usability, impact, and achieving results.
+      <p class="measure lh-copy wow  fadeIn animated" style="visibility: visible; animation-name: fadeIn;">We focus on design and technology as a broader approach to user experience, product performance and consumer perception. Web and mobile applications, as well as websites are necessary tools for nearly every business and organization. Our interactive design approach focuses on usability, impact, and achieving results.
       </p>
     </article>
 

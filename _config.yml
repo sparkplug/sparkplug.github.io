@@ -16,8 +16,7 @@
 title: Sparkplug 
 email: ray@sparkpl.ug
 description: >- # this means to ignore newlines until "baseurl:"
-  Optimal technology solutions and services
-  for innovative organizations since 2013.
+  Building better products for our clients since 2013.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sparkpl.ug" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sparkplugea
