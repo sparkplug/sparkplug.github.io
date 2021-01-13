@@ -8783,7 +8783,7 @@ summary {
 @font-face {
     font-family:'Eina';
     src:url(../fonts/eina-01-semibold.ttf) format('truetype');
-    font-weight:500;
+    font-weight:600;
     font-style:normal;
     font-display:auto;
     text-rendering:optimizeLegibility
@@ -8803,12 +8803,13 @@ html {
 
 body {
     font-family: "Circular Standard","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 400
+    font-weight: 400;
+    font-size: 1.1rem;
 }
 
 h1,h2,h3,h4,h5,h6 {
     font-family: "Eina","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700
+    font-weight: 600
 }
 
 .sparkplug-orange {

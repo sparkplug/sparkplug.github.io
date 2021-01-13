@@ -16,7 +16,7 @@
 title: Sparkplug 
 email: ray@sparkpl.ug
 description: >- # this means to ignore newlines until "baseurl:"
-  Building better products for our clients since 2013.
+  Building better digital products for our clients since 2013.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sparkpl.ug" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sparkplugea
@@ -26,7 +26,10 @@ github_username:  sparkplugea
 markdown: kramdown
 theme: minima
 plugins:
+  - jemoji
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # SEO/Meta settings
 author: Sparkplug
