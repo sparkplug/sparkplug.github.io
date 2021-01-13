@@ -52,7 +52,7 @@ image: /img/sparkplug-tech-work.jpg
         <div class="fn fl-ns tc w-100">
           <div class="pa3">
             <h1 class="f-subheadline-ns f2 lh-title mv5-ns mv3 black-90">Have a project in mind?</h1>
-            <a class="f4 fw4 font-smoothing-hover hover-bg-black-80 hover-white no-underline white bg-black-90 dib  pv3 ph4 ba br2 bw1" href="/contact/" title="Contact Sparkplug">Contact Us</a>
+            <a class="f4 fw4 font-smoothing-hover hover-bg-black-80 hover-white no-underline white bg-black-90 dib  pv3 ph4 ba br2 bw1" href="/contact" title="Contact Sparkplug">Contact Us</a>
           </div>
         </div>
     </article>
