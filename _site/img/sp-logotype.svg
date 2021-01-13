@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="501px" height="124px" viewBox="0 0 501 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sp-logotype</title>
+    <g id="Platia" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sp-logotype">
+            <g id="SP-Text" transform="translate(97.000000, 0.000000)">
+                <rect id="Rectangle" x="0" y="0" width="404" height="124"></rect>
+                <text id="Sparkplug" font-family="CircularStd-Bold, Circular Std" font-size="80" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="91">Sparkplug</tspan>
+                </text>
+            </g>
+            <g id="sparkplug" transform="translate(0.000000, 21.000000)">
+                <ellipse id="Oval" fill="#171717" cx="40.5" cy="41" rx="40.5" ry="41"></ellipse>
+                <path d="M43.4272297,15.0032329 C42.1128181,15.0495605 40.8416136,15.7844543 40.1436523,16.9014884 L25.3254567,39.8492888 C24.5426398,41.0670827 24.4838021,42.7161413 25.1778311,43.9868447 C25.8718602,45.2575468 27.2897312,46.0967505 28.7353256,46.0924404 L42.8378697,46.0924404 L32.0610002,62.7970892 C30.9145878,64.5861523 31.4961144,67.2591958 33.2816208,68.4077967 C35.0671258,69.5563975 37.7346488,68.9734397 38.8807379,67.1841687 L53.6989335,44.2363683 C54.4817505,43.0185744 54.5405882,41.3695158 53.8465591,40.0988124 C53.1525301,38.8281103 51.7346591,37.9889066 50.2890646,37.9932167 L36.1865205,37.9932167 L46.9633901,21.2885679 C47.7819108,20.0521458 47.8432824,18.3532972 47.1161212,17.0608069 C46.3889587,15.7683166 44.9066461,14.9415182 43.4272297,15.0032329 Z" id="Path" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
