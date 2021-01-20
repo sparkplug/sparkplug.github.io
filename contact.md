@@ -3,6 +3,7 @@ layout: default
 title: Find out how Sparkplug can help you build performant digital products.
 description: Find out how we can help you build performant digital products that deliver your objectives and key results faster.
 image: /img/sparkplug-tech-work.jpg
+permalink: /contact/
 ---
 
 <div class="bg-white pb5 pb6-l">
